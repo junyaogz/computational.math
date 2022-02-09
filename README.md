@@ -1,1 +1,1 @@
-Lectures and exercises of computational mathematics for Alan and Emmy.
+Lectures and exercises of computational mathematics for A&E.
