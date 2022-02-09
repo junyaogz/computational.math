@@ -1,4 +1,4 @@
-# Lecture A03 - odd and even numbers, conditional statement
+# Lecture A 03 - odd and even numbers, conditional statement
 
 Date: Feb 6, 2022
 
