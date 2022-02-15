@@ -1,6 +1,6 @@
 # Lecture A 03 - odd and even numbers, conditional statement
 
-Date: Feb 6, 2022
+Date: Sunday, Feb 6, 2022
 
 ## 1. objectives
 - understand what is odd or even numbers?
