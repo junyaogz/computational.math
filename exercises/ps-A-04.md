@@ -4,18 +4,20 @@
 
 **Name（姓名）**:
 
-(1) Is Printer an output device or input device?  （打印机是输入还是输出设备）
+(1) Is Printer an output device or input device?  （打印机是输入还是输出设备？）
 
 - (A) output device （输出设备）
 
 - (B) input device （输入设备）
 
+(2) Recap, given a sentence using if/else.（复习，给出一个使用if else的判断句）
 
-(2) Use the python code to print your name to screen（使用python代码将你的名字打印到屏幕上）
+
+(3) Use the python code to print your name to screen（使用python代码将你的名字打印到屏幕上）
 
 ```python
 name = "Alan"
 print("x is even")
 ```
 
-(3) Use a physical printer to print your course schedule on a paper （使用一台真的打印机将你的课程表打印到纸上）
+(4) Use a physical printer to print your course schedule on a paper （使用一台实体打印机将你的课程表打印到纸上）
