@@ -3,6 +3,7 @@
 Date: Tuesday, Feb 23, 2022
 
 ## 1. objectives
+- recap, power on, off and configure a printer
 - understand the concept of a variable
 - learn how to intialize a variable
 - learn how to change the value of a varialbe using assignment
