@@ -6,6 +6,7 @@ Date: Tuesday, Feb 23, 2022
 - understand the concept of a variable
 - learn how to intialize a variable
 - learn how to change the value of a varialbe using assignment
+- learn the features of pdf file
 
 ## 2. exercises
 - recap print statement
