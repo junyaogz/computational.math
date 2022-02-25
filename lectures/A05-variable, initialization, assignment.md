@@ -1,4 +1,4 @@
-# Lecture A05 - variables, initialization, assignment
+# Lecture A05 - variable, initialization, assignment
 
 Date: Tuesday, Feb 23, 2022
 
