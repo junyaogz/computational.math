@@ -4,7 +4,7 @@
 
 **Name（姓名）**:
 
-(1) What is the value of $c$ at last?  （$b$最后的值是多少？）
+(1) What is the value of $b$ at last?  （$b$最后的值是多少？）
 
 ```python
 a = 3
@@ -24,7 +24,7 @@ print(c)
 
 
 
-(3) Read the code, what is the final value of $x$?（阅读代码，最终打印的是哪句话？）
+(3) Read the code, what is the final output?（阅读代码，最终打印的是哪句话？）
 
 ```python
 a = 3 + 6
@@ -54,6 +54,6 @@ else:
 | $2^5$ |     |
 | $2^7$ |     |
 | $2^9$ |     |
-| $2^11$ |     |
-| $2^13$ |     |
+| $2^{11}$ |     |
+| $2^{13}$ |     |
 
