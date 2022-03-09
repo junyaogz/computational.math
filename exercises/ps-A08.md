@@ -18,7 +18,7 @@ else:
 (2) What is the final output?  （最后输出是什么？）
 
 ```python
-a = len("cheng")
+a = len("Bob")
 if a <= 3:
   print("<=3")
 elif a == 4:
@@ -30,13 +30,11 @@ else:
 (3) What is the final output?  （最后输出是什么？）
 
 ```python
-c = len("yao") + 1
-if c <= 3:
-  print("<=3")
-elif c == 4:
-  print("==4")
+c = len("Hello,Bob") - 5
+if c >=4:
+  print(">=4")
 else:
-  print(">4")
+  print("<4")
 ```
 
 (4) Recap, write down the missing representations（写出缺失的十进制或者二进制表示）
@@ -56,5 +54,8 @@ else:
 
 $2^3 + 2^2 + 2^1$  
 
-$2^2\times 1 + 2^1\times 1 + 2^0 \times 0$     (即二进制"110"转成10进制)
+$2^2\times 1 + 2^1\times 1 + 2^0 \times 0$     (即二进制"110"转成10进制)  
 
+(6) compute the sum （求和） 
+
+$20 - 2^4 + 2\times 3 - 5$     (即二进制"1111"转成10进制)  
