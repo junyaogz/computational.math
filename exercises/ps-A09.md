@@ -4,7 +4,7 @@
 (1) What is the final output?  （最后输出是什么？）
 ```python
 a = [1,2,3,5,6]
-print(len(a)) #小于
+print(len(a))
 ```
 
 (2) What is the final output?  （最后输出是什么？）
