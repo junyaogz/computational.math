@@ -1,0 +1,36 @@
+# Problem Set A10
+**Date（日期）**:____________________   **Name（姓名）**:___________________________
+
+(1) What is the final output?  （最后输出是什么？）
+```python
+a = [1,2,3,5,6]
+print(a[0])
+```
+
+(2) What is the final output?  （最后输出是什么？）
+```python
+a = [1,2,3,5,6]
+print(a[0:1])
+```
+
+(3) What is the final output?  （最后输出是什么？）
+```python
+a = [1,2,3,5,6]
+print(a[0:3])
+```
+
+(4) What is the final output?  （最后输出是什么？）
+```python
+a = [1,2,3,5,6]
+print(a[1:4])
+```
+
+(5) What is the final output?  （最后输出是什么？）
+```python
+a = [1,2,3,5,6]
+print(a[1:])
+``` 
+
+(6) compute the sum （求和） 
+
+$18 - 6 + 2\times 3 - 2^3$
